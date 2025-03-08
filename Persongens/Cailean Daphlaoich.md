@@ -1,0 +1,1 @@
+(Clérigo de Vida, humano), clérigo do domínio de vida que rege a capela de [[Bahamut]]

@@ -1,0 +1,1 @@
+rainha dos dragões malignos, a senhora do caos, um grande dragão cromático com 5 cabeças, uma de cada cor que podiam ser controladas independentemente. [[Tiamat]] morreu durante um conflito com Marduk, um aspecto do próprio [[Bahamut]] em -1071 DR, já na era dos humanos.

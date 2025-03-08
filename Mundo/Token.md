@@ -1,0 +1,1 @@
+Pequeno grupo de cultistas que veneram a [[Vessel]] e eden como divindades por terem conhecimentos avançadissimos e por terem chego em Faerun aparentemente do nada 

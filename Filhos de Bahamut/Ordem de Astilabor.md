@@ -1,0 +1,2 @@
+
+A ordem de [[Astilabor]] tem como seu líder [[Ghesh Lumihazar]], PTem como objetivo ir em missões de exploração e coleta de recursos importantes para a organização. é a organização da qual os aventureiros fazem parte

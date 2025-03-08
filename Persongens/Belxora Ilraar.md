@@ -1,0 +1,1 @@
+ uma draconato com pele prateada, porém dessa vez sem um tom azulado, apenas prata

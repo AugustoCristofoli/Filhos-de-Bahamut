@@ -1,0 +1,1 @@
+ como sua líder [[Belxora Ilraar]]. A [[Ordem de Miirym]] tem como objetivo a proteção dos [[Filhos de Bahamut]]. Seguindo os ensinamentos de [[Miirym]], a sentinela, os guerreiros dessa ordem nunca atacam, porém estão sempre muito bem preparados para defender os que amam com unhas e dentes.

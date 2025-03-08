@@ -1,0 +1,6 @@
+Como todos conheciam, a igreja de [[Tiamat]] era uma antiga organização que existiu séculos atrás, antes da morte de [[Tiamat]],  Antes da morte da Senhora do caos, sua igreja tinha como objetivo adquirir riquezas em oferenda para a deusa, recrutar mais fiéis e sabotar cultos a outros deuses. Hoje em dia é acreditado que a igreja não exista mais.
+
+## Atualmente:
+A igreja de [[Tiamat]] se reergueu nos subterrâneos e sombrios cantos das maiores cidades de [[Faerûn]], tendo como objetivo principal ressuscitar [[Tiamat]] com um sombrio ritual envolvendo um poderoso feitiço criado por ela conhecido como “palavra do poder, matar” ou **arandguthkurikarcaniss** (# Power Word Kill, "arandguthkurikarcaniss" derives from Arand "Core," Guth "Push," Kurik "slaughter" and Arcaniss "Magic")na linguagem dracônica. Os efeitos desse feitiço não são 100% conhecidos por todos, porém, sabe-se que é algo extremamente poderoso e que não é usado desde que esse culto e sua deusa deixaram de existir.
+
+O principal ingrediente para esse ritual é alguma parte do corpo de [[Tiamat]] que esteja conservada, que por meio de uma infiltrada foi descoberta estar no templo dos [[Filhos de Bahamut]].

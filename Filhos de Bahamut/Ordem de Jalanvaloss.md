@@ -1,0 +1,2 @@
+
+Comandado pelo próprio dragão [[Jalanvaloss]] em sua forma humana, é a ordem que toma conta das partes sociais e administrativas da organização. Todos os cuidadores, médicos, cozinheiros e professores fazem parte dessa ordem.
