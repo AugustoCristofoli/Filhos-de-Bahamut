@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Seções/Seção 02/Seção 02.md",
+                "file": "Inimigos/Cultistas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Seção 02"
+              "title": "Cultistas"
+            }
+          },
+          {
+            "id": "cf2799bf92dd7fa4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inimigos/Spells cultistas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spells cultistas"
             }
           }
         ]
@@ -186,7 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 209.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,38 +214,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d7478d1ab374ed98",
+  "active": "eb856890a4247754",
   "lastOpenFiles": [
-    "JOURNAL.md",
+    "Pasted image 20250309104138.png",
+    "Inimigos/Cultistas.md",
+    "Inimigos/Spells cultistas.md",
+    "Pasted image 20250309130623.png",
+    "Pasted image 20250309130508.png",
+    "Pasted image 20250309130415.png",
+    "Pasted image 20250309130257.png",
+    "Pasted image 20250309130216.png",
+    "Seções/Seção 02/Seção 02.md",
     "Persongens/Euclid.md",
-    "Persongens/Ghesh Lumihazar.md",
+    "Mundo/Token.md",
+    "Persongens/Agathara.md",
     "Persongens/Jalanvaloss.md",
     "Persongens/Irdonec Mithyra.md",
+    "Persongens/Ghesh Lumihazar.md",
+    "Persongens/Vessel.md",
+    "Mundo/Faerûn.md",
+    "Mundo/Berdusk.md",
     "Persongens/Belxora Ilraar.md",
-    "Seções/Seção 02/Seção 02.md",
-    "Mundo/Token.md",
-    "Filhos de Bahamut/Ordem de Astilabor.md",
+    "Persongens/Arathorn Ilitumal.md",
+    "Mundo/Viagens.md",
+    "Mundo/Miconiedos.md",
     "Mundo/Igreja de Tiamat.md",
+    "Dragões/Astilabor.md",
+    "Dragões/Bahamut.md",
+    "Dragões/Miirym.md",
     "Filhos de Bahamut/Filhos de Bahamut.md",
-    "Filhos de Bahamut/Ordem de Jalanvaloss.md",
     "Filhos de Bahamut/Templo de Bahamut.md",
     "Filhos de Bahamut/Ordem de Miirym.md",
-    "Inimigos/Cultistas.md",
-    "Mundo/Faerûn.md",
+    "Filhos de Bahamut/Ordem de Astilabor.md",
+    "JOURNAL.md",
     "Captura de tela 2025-02-23 211356 1.png",
     "Sword-Coast-Map_HighRes.jpg",
-    "Persongens/Agathara.md",
-    "Persongens/Arathorn Ilitumal.md",
-    "Seções/Resumos.md",
-    "Mundo/Miconiedos.md",
-    "Persongens/Cailean Daphlaoich.md",
-    "Mundo/Viagens.md",
     "Captura de tela 2025-02-23 211356.png",
     "sylvandor",
-    "Dragões/Bahamut.md",
-    "Iniciativa.md",
     "Seções/Seção 02",
-    "Persongens/Vessel.md",
     "Inimigos",
     "Seções",
     "Mundo",
